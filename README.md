@@ -22,3 +22,6 @@ Take a look at some in-game screenshots:
 <img src = "https://github.com/Hariz09/Seamulator/blob/main/Seamulator%20readme%20img/Seamulator%20map.jpg?raw=true">
 <img src = "https://github.com/Hariz09/Seamulator/blob/main/Seamulator%20readme%20img/Seamulator%20market.jpg?raw=true">
 <img src = "https://github.com/Hariz09/Seamulator/blob/main/Seamulator%20readme%20img/Seamulator%20notice.jpg?raw=true">
+
+And also thank you very much to the repl.it team who has placed my project at #37 of the 50 selected projects to get creator funds in August 2022
+<img src = "https://github.com/Hariz09/Seamulator/blob/main/Seamulator%20readme%20img/Screenshot%202024-08-19%20074014.png?raw=true">
